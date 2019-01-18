@@ -9,6 +9,8 @@ A simple TCP server which provides awscli completions.
 ### Prerequisites
 - pip
 
+### Installation
+
 From the project's root directory run:
 
 - to install locally for the current user:
